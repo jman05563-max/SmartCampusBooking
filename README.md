@@ -29,3 +29,8 @@ https://github.com/jman05563-max/SmartCampusBooking.git
 - System Operator: username `operator1`, password `OperatorPass123`
 
 Lecturers can register through the application.
+
+GitHub Repository Link
+Public GitHub Repository:
+
+
