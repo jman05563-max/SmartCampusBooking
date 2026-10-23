@@ -3,7 +3,7 @@
 
 ## Description
 A Python application that allows lecturers to book campus resources. Campus administrators can manage resources, while system operators can view campus booking reports.
-https://github.com/jman05563-max/SmartCampusBooking.git
+
 ## Technologies Used
 - Python
 - Tkinter
@@ -33,4 +33,4 @@ Lecturers can register through the application.
 GitHub Repository Link
 Public GitHub Repository:
 
-
+https://github.com/jman05563-max/SmartCampusBooking.git
